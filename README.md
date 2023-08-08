@@ -7,9 +7,12 @@
 
 
 # Problem Statement:
+
 The objective of this project is to utilize Tableau's data visualization capabilities to analyze and present insights from Spotify data. This project seeks to leverage Tableau's visualization capabilities to transform raw Spotify data into meaningful and interactive visualizations that enable users to gain insights, make data-driven decisions, and explore their music preferences in a visually engaging manner. As an analyst come up with the recommendation on suggesting advertisement s to stay competitive in music industry.
 
+
 # Approach:
+
 # Data Collection:-
 Start by collecting the Spotify data you want to analyze. This could include information about top tracks, playlists, and other relevant data.
 # Data Preparation:-
@@ -25,10 +28,14 @@ Tableau offers interactivity features that allow users to interact with the visu
 # Publish and Share:-
 Once you're satisfied with your visualizations and dashboards, you can publish them to Tableau Server or Tableau Public. This allows you to share your insights with others, embed visualizations in websites, or collaborate with teammates.
 
+
 # Results:
+
 You have to analyze the Spotify trends and create data visualizations using tableau. As an analyst come up with the recommendation on suggesting advertisement s to stay competitive in music industry.
 
+
 # The learning outcomes of this project:
+
 # 1) Data Visualization Skills:-
 Participants will acquire proficiency in using Tableau, a widely used data visualization tool. They will learn how to connect to data sources, create interactive visualizations, customize charts, design dashboards, and incorporate interactivity features. This project will enhance their ability to present data in a visually appealing and informative manner.
 # 2) Data Analysis and Interpretation:-
@@ -38,7 +45,9 @@ By exploring and visualizing Spotify data, participants will gain insights into 
 # 4) Evaluating Music Recommendation Algorithms:-
 Participants will have the opportunity to assess the effectiveness of Spotify's music recommendation algorithms. By visualizing the recommended tracks and comparing them with actual listening behavior, they can evaluate the accuracy and relevance of the recommendations. This exercise can provide insights into the performance of recommendation systems in the music domain.
 
+
 # Project Evaluation metrics:
+
 # 1) You are supposed to get the data of Spotify
 https://drive.google.com/file/d/15juLHd6rVkKqgd7e2ufyaGIFXpaIlP0i/view?usp=sharing
 # 2) Analyze and visualize the following:
