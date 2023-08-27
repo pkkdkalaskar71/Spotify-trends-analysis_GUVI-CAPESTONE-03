@@ -48,19 +48,18 @@ Participants will have the opportunity to assess the effectiveness of Spotify's 
 
 # Project Evaluation metrics:
 
-# 1) You are supposed to get the data of Spotify
-# 2) Analyze and visualize the following:
+# 1) Analyze and visualize the following:
  Most popular tracks and artists.
  Popularity by country
  Streaming over time
 Generate atleast 5 kPIS make an analysis on creating advertisement in spotify to be competitive in music industry.
-# 3) Visualization Quality:-
+# 2) Visualization Quality:-
 Evaluate the quality of the visualizations created using Tableau. Consider factors such as clarity, accuracy, and aesthetics. Assess whether the visualizations effectively represent the Spotify data and convey the intended information.
-# 4) Insightfulness:-
+# 3) Insightfulness:-
 Assess the insights derived from the visualizations. Evaluate whether the visualizations have provided meaningful and actionable insights into Spotify music trends, user behavior, or other relevant aspects.
-# 5) Performance and Efficiency:-
+# 4) Performance and Efficiency:-
 Evaluate the performance of Tableau during the visualization process. Consider factors such as the time taken to load and render the visualizations, responsiveness to user interactions, and the overall efficiency of the visualization workflow.
-# 6) After Analysis and visualization:-
+# 5) After Analysis and visualization:-
 publish them to Tableau Server or Tableau Public and also make a power point presentation of your overall analysis and insights collected from Spotify trends.
 
 .
