@@ -49,7 +49,6 @@ Participants will have the opportunity to assess the effectiveness of Spotify's 
 # Project Evaluation metrics:
 
 # 1) You are supposed to get the data of Spotify
-https://drive.google.com/file/d/15juLHd6rVkKqgd7e2ufyaGIFXpaIlP0i/view?usp=sharing
 # 2) Analyze and visualize the following:
  Most popular tracks and artists.
  Popularity by country
