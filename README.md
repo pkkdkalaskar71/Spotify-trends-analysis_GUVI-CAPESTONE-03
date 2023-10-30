@@ -1,4 +1,4 @@
-# Spotify-trends_GUVI-CAPESTONE-03
+# Spotify-trends-analysis_GUVI-CAPESTONE-03
 
 
 # Project Title - Analyze Spotify trends using tableau
